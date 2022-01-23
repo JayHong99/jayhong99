@@ -2,7 +2,6 @@
 
 ### Machine Learning Engineer (wants to be /cough /)
 - Major in "Bigdata Analysis Business Statistics" and "Social Media Analytics"
-- 
 
 ### Current Interest
 - NLP
@@ -13,3 +12,5 @@
 
 
 #### Current Status ... : "Studying"
+- on NLP x XAI
+- and Certification "ADP"
