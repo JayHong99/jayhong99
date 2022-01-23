@@ -2,6 +2,7 @@
 
 ### Machine Learning Engineer (wants to be /cough /)
 - Major in "Bigdata Analysis Business Statistics" and "Social Media Analytics"
+- worked at "DACON" as Data Scientist (www.dacon.io)
 
 ### Current Interest
 - NLP
