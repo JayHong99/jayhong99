@@ -12,4 +12,5 @@
 
 
 
-#### 🙄 Current Status ... : "Studying"
+#### 🙄 Today's Record : 2022.01.25
+- Python 기초 과외 자료 만드는 중..
