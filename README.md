@@ -7,7 +7,7 @@
 
 ### ✈ Interest
 - NLP
-- Explainable AI
+- eXplainable AI
 - Health Care
 
 
