@@ -12,5 +12,6 @@
 
 
 
-#### 🙄 Today's Record : 2022.01.25
+#### 🙄 Today's Record : 2022.01.26
 - Python 기초 과외 자료 만드는 중..
+  - 함수, Class, Numpy, OT 자료 생성중...
