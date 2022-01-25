@@ -3,7 +3,7 @@
 ### 🧐 Machine Learning Engineer (wants to be / cough /)
 - [국민대학교](https://www.kookmin.ac.kr) - Major in "Bigdata Analysis Business Statistics" and "Social Media Analytics"
 - [DACON](https://www.dacon.io) - Data Scientist 
-- [백수](https://github.com/JayHong99) - 대학원 준비중... 
+- [백수](https://github.com/JayHong99) - 과외하며 대학원 준비중... 
 
 ### ✈ Interest
 - NLP
