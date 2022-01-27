@@ -12,8 +12,7 @@
 
 
 
-#### 🙄 Today's Record : 2022.01.26
-- Python 기초 과외 자료 만드는 중..
-  - 함수, Class, Numpy, OT 자료 
-  - CV 수정
-  - CNN 발표자료 만들기
+#### 🙄 Today's Record : 2022.01.27
+- Stduy 준비중
+  - Variational Auto Encoder with PyTorch
+  - Word Embedding 정리 + PPT
