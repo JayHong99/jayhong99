@@ -12,7 +12,5 @@
 
 
 
-#### 🙄 Today's Record : 2022.01.27
-- Stduy 준비중
-  - Variational Auto Encoder with PyTorch
-  - Word Embedding 정리 + PPT
+#### 🙄 Today's Record : 2022.01.28
+- 백신... 😫
