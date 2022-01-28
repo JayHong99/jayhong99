@@ -13,5 +13,8 @@
 
 
 #### 🙄 Today's Record : 2022.01.29
-- VAE 마무리
-- Word Embedding
+- [ ] VAE 마무리
+- [ ] Word Embedding 이론
+- [ ] Word Embedding 실습
+- [ ] Word Embedding PPT
+- [ ] Word Embedding with KLUE dataset 
