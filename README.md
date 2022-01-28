@@ -16,5 +16,5 @@
 - [X] VAE with Fashion MNIST data (02:00)
 - [X] Word Embedding 이론 (05:45)
 - [X] Word Embedding 실습
-- [ ] Word Embedding PPT
+- [X] Word Embedding PPT
 - [ ] Word Embedding with KLUE dataset 
