@@ -12,5 +12,6 @@
 
 
 
-#### 🙄 Today's Record : 2022.01.28
-- 백신... 😫
+#### 🙄 Today's Record : 2022.01.29
+- VAE 마무리
+- Word Embedding
