@@ -13,8 +13,8 @@
 
 
 #### 🙄 Today's Record : 2022.01.29
-- [ ] VAE 마무리
-- [ ] Word Embedding 이론
+- [X] VAE with Fashion MNIST data (02:00)
+- [X] Word Embedding 이론 (05:45)
 - [ ] Word Embedding 실습
 - [ ] Word Embedding PPT
 - [ ] Word Embedding with KLUE dataset 
