@@ -17,4 +17,4 @@
 - [X] Word Embedding 이론 (05:45)
 - [X] Word Embedding 실습 (06:40)
 - [X] Word Embedding PPT (07:26)
-- [ ] Word Embedding with KLUE dataset (08:14)
+- [X] Word Embedding with KLUE dataset (08:14)
