@@ -12,9 +12,8 @@
 
 
 
-#### 🙄 Today's Record : 2022.01.29
-- [X] VAE with Fashion MNIST data (02:00)
-- [X] Word Embedding 이론 (05:45)
-- [X] Word Embedding 실습 (06:40)
-- [X] Word Embedding PPT (07:26)
-- [X] Word Embedding with KLUE dataset (08:14)
+#### 🙄 Today's Record : 2022.01.30
+- [ ] AI 504 RNN 이론 정리
+- [ ] AI 504 RNN 실습 정리
+- [ ] NLI x RNN Reference 정리
+- [ ] SNLI에 model 
