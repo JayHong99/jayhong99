@@ -12,5 +12,5 @@
 
 
 #### 🙄 Today's Record : 2022.01.31
-- [ ] AI 504 Study
-- [ ] AI 504 Image to Text Class
+- [ ] AI 504 Study 19:00
+- [ ] AI 504 Image to Text
