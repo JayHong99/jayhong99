@@ -8,7 +8,6 @@
 ### ✈ Interest
 - NLP
 - eXplainable AI
-- Health Care
 
 
 
