@@ -13,7 +13,7 @@
 
 #### 🙄 Today's Record : 2022.01.30
 - [X] AI 504 RNN 이론 정리
-- [ ] AI 504 RNN 실습 정리
-- [ ] AI 504 Word Embedding 실습 
+- [X] AI 504 RNN 실습 정리
+- [X] SKip Gram 구현
 - [ ] NLI x RNN Reference 정리
 - [ ] SNLI에 model 적용하기
