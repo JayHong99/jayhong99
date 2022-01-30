@@ -11,8 +11,6 @@
 
 
 
-#### 🙄 Today's Record : 2022.01.30
-- [X] AI 504 RNN 이론 정리
-- [X] AI 504 RNN 실습 정리
-- [X] SKip Gram 구현
-- [X] Bidirectional LSTM on KLUE NLI
+#### 🙄 Today's Record : 2022.01.31
+- [ ] AI 504 Study
+- [ ] AI 504 Image to Text Class
