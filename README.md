@@ -11,6 +11,6 @@
 
 
 
-#### 🙄 Today's Record : 2022.01.31
-- [ ] AI 504 Study 19:00
+#### 🙄 Today's Record : 2022.02.01
 - [ ] AI 504 Image to Text
+- [ ] 과외 준비
