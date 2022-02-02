@@ -13,7 +13,7 @@
 
 #### 🙄 Today's Record : 2022.02.03
 - [ ] AI 504 Image to Text 실습
-- [ ] VGG 16 구현
+- [X] Fasion MNIST CNN Classifier 구현
 - [ ] ResNet18 구현
 
 ---
