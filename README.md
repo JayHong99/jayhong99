@@ -14,3 +14,23 @@
 #### 🙄 Today's Record : 2022.02.01
 - [X] 과외 준비
 - [ ] AI 504 Image to Text
+
+---
+### 2022.02 계획
+#### NLP
+- [ ] AI 504 Study 마무리
+- [ ] CS224N 마무리
+- [ ] MS-COCO 한국어 Captioning Project
+- [ ] NLI 관련 흐름 정리 + 구현
+
+#### CV
+- [ ] Fashin MNIST Data + Pytorch 
+- [ ] AI 504 Study -> GAN Project 진행
+
+#### XAI
+- [ ] "XAI 설명 가능한 인공지능 인공지능을 해부하다" 정리
+- [ ] "Interpretable Machine Learning" 정리 (https://christophm.github.io/interpretable-ml-book/)
+- [ ] NLP x XAI 관련 연구 논문 정리
+
+#### Others
+- [ ] 과외
