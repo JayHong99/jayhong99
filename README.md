@@ -11,9 +11,10 @@
 
 
 
-#### 🙄 Today's Record : 2022.02.01
-- [X] 과외 준비
-- [ ] AI 504 Image to Text
+#### 🙄 Today's Record : 2022.02.03
+- [ ] AI 504 Image to Text 실습
+- [ ] VGG 16 구현
+- [ ] ResNet18 구현
 
 ---
 ### 2022.02 계획
