@@ -11,10 +11,10 @@
 
 
 
-#### 🙄 Today's Record : 2022.02.03
+#### 🙄 Today's Record : 2022.02.04
 - [ ] AI 504 Image to Text 실습
-- [X] Fasion MNIST CNN Classifier 구현
-- [ ] ResNet18 구현
+- [ ] ResNet18 정리 + 구현
+- [ ] XAI 스터디 정리
 
 ---
 ### 2022.02 계획
