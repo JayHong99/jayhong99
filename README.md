@@ -13,7 +13,8 @@
 
 #### 🙄 Today's Record : 2022.02.04
 - [ ] AI 504 Image to Text 실습 => 데이터 제한으로 불가능 => 한국어 MS-COCO 해보기
-- [ ] ResNet18 정리 + 구현
+- [X] Residual Connection 정리
+- [ ] Fashion MNIST ResNet 구현
 - [ ] XAI 스터디 정리
 
 ---
