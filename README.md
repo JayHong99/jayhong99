@@ -31,7 +31,7 @@
 - [ ] AI 504 Study -> GAN Project 진행
 
 #### XAI
-- [ ] XAI 
+- [ ] XAI Study 진행 (Hands on XAI)
 - [ ] "XAI 설명 가능한 인공지능 인공지능을 해부하다" 정리
 - [ ] "Interpretable Machine Learning" 정리 (https://christophm.github.io/interpretable-ml-book/)
 - [ ] NLP x XAI 관련 연구 논문 정리
