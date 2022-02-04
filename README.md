@@ -15,7 +15,7 @@
 - [ ] AI 504 Image to Text 실습 => 데이터 제한으로 불가능 => 한국어 MS-COCO 해보기
 - [X] Residual Connection 정리
 - [X] Fashion MNIST ResNet 구현
-- [ ] CVAE 구현
+- [X] CVAE 구현
 - [ ] XAI 스터디 정리
 
 ---
