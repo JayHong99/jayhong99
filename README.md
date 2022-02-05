@@ -13,7 +13,10 @@
 
 #### 🙄 Today's Record : 2022.02.05
 - [X] XAI 스터디 정리
-- [ ] Data Crawling 수업 자료 만들기
+- [X] Data 수집 수업 자료 만들기
+  - [X] 01. 웹 크롤링과 정적 데이터 수집.pdf
+  - [X] 02. 웹 크롤링2와 동적 데이터 수집.pdf
+  - [X] 03. API를 활용한 데이터 수집.pdf
 - [ ] AI 504 Transformer
 
 ---
