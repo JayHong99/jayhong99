@@ -12,7 +12,7 @@
 
 
 #### 🙄 Today's Record : 2022.02.05
-- [ ] XAI 스터디 정리
+- [X] XAI 스터디 정리
 - [ ] Data Crawling 수업 자료 만들기
 - [ ] AI 504 Transformer
 
