@@ -17,6 +17,7 @@
   - [X] 01. 웹 크롤링과 정적 데이터 수집.pdf
   - [X] 02. 웹 크롤링2와 동적 데이터 수집.pdf
   - [X] 03. API를 활용한 데이터 수집.pdf
+  - [X] 04. Riot Games Data API 
 - [ ] AI 504 Transformer
 
 ---
