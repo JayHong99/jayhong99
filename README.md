@@ -12,9 +12,8 @@
 
 
 #### 🙄 Today's Record : 2022.02.05
-- [ ] XAI 스터디 (10 : 00)
-- [ ] Data Collection 과외 (21:00)
-- [ ] AI 504 Transformer
+- [X] XAI 스터디 (10 : 00)
+- [X] Data Collection 과외 (21:00)
 
 ---
 ### 2022.02 계획
