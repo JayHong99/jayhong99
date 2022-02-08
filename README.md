@@ -11,9 +11,11 @@
 
 
 
-#### 🙄 Today's Record : 2022.02.05
-- [X] XAI 스터디 (10 : 00)
-- [X] Data Collection 과외 (21:00)
+#### 🙄 Today's Record : 2022.02.09
+- [ ] Fashion Mnist GAN
+- [ ] Celeb-A GAN
+- [ ] Celeb-A DCGAN
+- [ ] Transformer 
 
 ---
 ### 2022.02 계획
