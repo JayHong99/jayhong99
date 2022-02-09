@@ -12,8 +12,8 @@
 
 
 #### 🙄 Today's Record : 2022.02.09
-- [ ] Fashion Mnist GAN
-- [ ] Celeb-A GAN
+- [X] Fashion Mnist GAN
+- [X] Celeb-A GAN
 - [ ] Celeb-A DCGAN
 - [ ] Transformer 
 
