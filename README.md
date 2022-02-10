@@ -14,6 +14,8 @@
 #### 🙄 Today's Record : 2022.02.10
 - [ ] AI 504 Transformer 강의
 - [ ] AI 504 Transformer 코딩 
+- [ ] Python 기초 강의 2회차 (21:00)
+- [ ] XAI 스터디 1회차 준비
 
 ---
 ### 2022.02 계획
