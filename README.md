@@ -12,6 +12,7 @@
 
 
 #### 🙄 Today's Record : 2022.02.10
+- [ ] Celeb-A DCGAN 수정
 - [ ] AI 504 Transformer 강의
 - [ ] AI 504 Transformer 코딩 
 - [ ] Python 기초 강의 2회차 (21:00)
