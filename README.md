@@ -11,11 +11,9 @@
 
 
 
-#### 🙄 Today's Record : 2022.02.09
-- [X] Fashion Mnist GAN
-- [X] Celeb-A GAN
-- [ ] Celeb-A DCGAN
-- [ ] Transformer 
+#### 🙄 Today's Record : 2022.02.10
+- [ ] AI 504 Transformer 강의
+- [ ] AI 504 Transformer 코딩 
 
 ---
 ### 2022.02 계획
