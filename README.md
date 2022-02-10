@@ -14,13 +14,14 @@
 몸 상태가 너무 안좋아 병원 다니며 약 복용중...
 해야 할 일을 많이 못 끝낼수도..?
 
-#### 🙄 Today's Record : 2022.02.10
+#### 🙄 Today's Record : 2022.02.10 ~ 02.11
 - [ ] Celeb-A DCGAN 수정
   - [X] Celeb-A DCGAN 10만장 100 epoch
   - [ ] Celeb-A DCGAN 3만장  500 epoch
 - [ ] AI 504 Transformer 강의
 - [ ] AI 504 Transformer 코딩 
-- [ ] Python 기초 강의 2회차 (21:00)
+- [X] Python 기초 강의 2회차 (21:00)
+- [ ] AI 504 스터디 (20:00)
 - [ ] XAI 스터디 1회차 준비
   - [X] Linear Regression
   - [ ] Logistic Regression
@@ -40,8 +41,7 @@
 - [ ] AI 504 Study -> GAN Project 진행
 
 #### XAI
-- [ ] XAI Study 진행 (Hands on XAI)
-- [ ] "XAI 설명 가능한 인공지능 인공지능을 해부하다" 정리
+- [ ] XAI Study 진행
 - [ ] "Interpretable Machine Learning" 정리 (https://christophm.github.io/interpretable-ml-book/)
 - [ ] NLP x XAI 관련 연구 논문 정리
 
