@@ -19,15 +19,11 @@
   - [X] Celeb-A DCGAN 10만장 100 epoch
   - [X] Celeb-A DCGAN 3만장  300 epoch
 - [X] AI 504 Transformer 강의
-- [ ] AI 504 Transformer 코딩 
-  - [ ] DACON 항공사 데이터에 Transformer 
+- [X] DACON 항공사 Codeshare 
 - [X] Python 기초 강의 2회차 (21:00)
-- [ ] AI 504 스터디 (20:00)
+- [X] AI 504 스터디 (20:00)
 - [ ] XAI 스터디 1회차 준비
   - [X] Linear Regression
-  - [ ] Logistic Regression
-  - [ ] GAM, GLM, etc
-  - [ ] Decision Tree
 
 ---
 ### 2022.02 계획
