@@ -15,10 +15,10 @@
 해야 할 일을 많이 못 끝낼수도..?
 
 #### 🙄 Today's Record : 2022.02.10 ~ 02.11
-- [ ] Celeb-A DCGAN 수정
+- [X] Celeb-A DCGAN 수정
   - [X] Celeb-A DCGAN 10만장 100 epoch
-  - [ ] Celeb-A DCGAN 3만장  500 epoch
-- [ ] AI 504 Transformer 강의
+  - [X] Celeb-A DCGAN 3만장  300 epoch
+- [X] AI 504 Transformer 강의
 - [ ] AI 504 Transformer 코딩 
 - [X] Python 기초 강의 2회차 (21:00)
 - [ ] AI 504 스터디 (20:00)
