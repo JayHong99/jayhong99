@@ -30,6 +30,9 @@
 #### CV
 - [X] Fashin MNIST Data + Pytorch 다양한 프로젝트 진행
 - [ ] AI 504 Study -> GAN Project 진행
+  - [X] Celeb-A GAN
+  - [X] Celeb-A DCGAN
+  - [ ] Cycle GAN
 
 #### XAI
 - [ ] XAI Study 진행
