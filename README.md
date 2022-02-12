@@ -10,10 +10,10 @@
 - eXplainable AI
 
 #### 🙄 Today's Record : 2022.02.12
-- [ ] 동적 데이터 수집 과외 (10:00)
-- [ ] 운동 (12:00)
+- [X] 동적 데이터 수집 과외 (10:00)
+- [X] 운동 (12:00)
 - [ ] XAI 스터디 준비
-  - [ ] Linear Regression
+  - [X] Linear Regression
   - [ ] Logistic Regression
   - [ ] GAM, etc
   - [ ] Decision Tree
