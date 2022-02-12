@@ -39,7 +39,7 @@
 
 #### XAI
 - [ ] XAI Study 진행 ("Interpretable Machine Learning")
-  - [ ] WEEK1 : LIME & SHAP
+  - [X] WEEK1 : LIME & SHAP
   - [ ] WEEK2 : Interpretability on Simple Models (Logreg, Logistic, GAM, DT)
 - [ ] NLP x XAI 관련 연구 논문 정리
 
