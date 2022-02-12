@@ -23,20 +23,24 @@
 ### 2022.02 계획
 #### NLP
 - [ ] AI 504 Study 마무리
+  - [X] WEEK1 : IMG2TXT 이론
+  - [X] WEEK2 : Transformer 이론
+  - [ ] WEEK3 : BERT 이론 + Use Pretrained Model
 - [ ] CS224N 마무리
 - [ ] MS-COCO 한국어 Captioning Project
-- [ ] NLI 관련 흐름 정리 + 구현
+- [ ] DACON "한국어 문장 관계 분류 경진대회"
 
 #### CV
 - [X] Fashin MNIST Data + Pytorch 다양한 프로젝트 진행
 - [ ] AI 504 Study -> GAN Project 진행
-  - [X] Celeb-A GAN
-  - [X] Celeb-A DCGAN
-  - [ ] Cycle GAN
+  - [X] WEEK1 : Celeb-A GAN
+  - [X] WEEK2 : Celeb-A DCGAN
+  - [ ] WEEK3 : Cycle GAN
 
 #### XAI
-- [ ] XAI Study 진행
-- [ ] "Interpretable Machine Learning" 정리 (https://christophm.github.io/interpretable-ml-book/)
+- [ ] XAI Study 진행 ("Interpretable Machine Learning")
+  - [ ] WEEK1 : LIME & SHAP
+  - [ ] WEEK2 : Interpretability on Simple Models (Logreg, Logistic, GAM, DT)
 - [ ] NLP x XAI 관련 연구 논문 정리
 
 #### Others
