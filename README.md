@@ -9,20 +9,15 @@
 - NLP
 - eXplainable AI
 
-
-### 이번주 🤮
-몸 상태가 너무 안좋아 병원 다니며 약 복용중...
-
-#### 🙄 Today's Record : 2022.02.10 ~ 02.11
-- [X] Celeb-A DCGAN 수정
-  - [X] Celeb-A DCGAN 10만장 100 epoch
-  - [X] Celeb-A DCGAN 3만장  300 epoch
-- [X] AI 504 Transformer 강의
-- [X] DACON 항공사 Codeshare 
-- [X] Python 기초 강의 2회차 (21:00)
-- [X] AI 504 스터디 (20:00)
-- [ ] XAI 스터디 1회차 준비
-  - [X] Linear Regression
+#### 🙄 Today's Record : 2022.02.12
+- [ ] 동적 데이터 수집 과외 (10:00)
+- [ ] 운동 (12:00)
+- [ ] XAI 스터디 준비
+  - [ ] Linear Regression
+  - [ ] Logistic Regression
+  - [ ] GAM, etc
+  - [ ] Decision Tree
+- [ ] HAIR CUT
 
 ---
 ### 2022.02 계획
