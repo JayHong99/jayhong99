@@ -17,7 +17,7 @@
   - [ ] Logistic Regression
   - [ ] GAM, etc
   - [ ] Decision Tree
-- [ ] HAIR CUT
+- [ ] HAIR CUT(19:00)
 
 ---
 ### 2022.02 계획
