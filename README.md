@@ -10,15 +10,9 @@
 - eXplainable AI
 
 #### 🙄 Today's Record : 2022.02.12
-- [X] 동적 데이터 수집 과외 (10:00)
-- [X] 운동 (12:00)
-- [ ] XAI 스터디 준비
-  - [X] Linear Regression
-  - [ ] Logistic Regression
-  - [ ] GAM, etc
-  - [ ] Decision Tree
-- [ ] HAIR CUT(19:00)
-
+- [ ] XAI 스터디 (09:00)
+- [ ] 운동
+- [ ] 
 ---
 ### 2022.02 계획
 #### NLP
@@ -40,7 +34,8 @@
 #### XAI
 - [ ] XAI Study 진행 ("Interpretable Machine Learning")
   - [X] WEEK1 : LIME & SHAP
-  - [ ] WEEK2 : Interpretability on Simple Models (Logreg, Logistic, GAM, DT)
+  - [X] WEEK2 : Interpretability on Simple Models (<b>Logreg</b>, Logistic, GAM, DT)
+  - [ ] WEEK3 : <b>Decision Rules</b>, Rule FIt, Other Interpretable Models, Model-Agnostic Methods, Example-Based Explanations
 - [ ] NLP x XAI 관련 연구 논문 정리
 
 #### Others
