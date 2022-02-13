@@ -9,7 +9,8 @@
 - NLP
 - eXplainable AI
 
-#### 🙄 Today's Record : 2022.02.13
+#### 🙄 Today's Record : 2022.02.14
+
 ---
 ### 2022.02 계획
 #### NLP
