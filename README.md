@@ -10,10 +10,10 @@
 - eXplainable AI
 
 #### 🙄 Today's Record : 2022.02.14
-- [ ] Python 기초 (14:30 ~ )
+- [ ] Python 기초 (14:30 ~ 16:30)
 - [ ] BERT 이론
 - [ ] BERT 실습
-- [ ] Cycle GAN 정리
+- [ ] Data Frame 기초 수업자료
 ---
 ### 2022.02 계획
 #### NLP
