@@ -9,11 +9,10 @@
 - NLP
 - eXplainable AI
 
-#### 🙄 Today's Record : 2022.02.14
-- [ ] Python 기초 (14:30 ~ 16:30)
-- [ ] BERT 이론
-- [ ] BERT 실습
-- [ ] Data Frame 기초 수업자료
+#### 🙄 Today's Record : 2022.02.15
+- [X] 운동
+- [ ] BERT
+- [ ] 과외자료 
 ---
 ### 2022.02 계획
 #### NLP
