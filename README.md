@@ -9,10 +9,7 @@
 - NLP
 - eXplainable AI
 
-#### 🙄 Today's Record : 2022.02.15
-- [X] 운동
-- [ ] BERT
-- [ ] 과외자료 
+#### 🙄 Today's Record : 2022.02.
 ---
 ### 2022.02 계획
 #### NLP
