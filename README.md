@@ -17,6 +17,7 @@
   - [X] WEEK1 : IMG2TXT 이론
   - [X] WEEK2 : Transformer 이론
   - [X] WEEK3 : BERT 이론 + Use Pretrained Model
+  - [ ] WEEK4 : MS COCO Img 2 Txt
 - [ ] CS224N 마무리
 - [ ] MS-COCO 한국어 Captioning Project
 - [ ] DACON "한국어 문장 관계 분류 경진대회"
