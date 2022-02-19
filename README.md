@@ -9,7 +9,11 @@
 - NLP
 - eXplainable AI
 
-#### 🙄 Today's Record : 2022.02.
+#### 🙄 Today's Record : 2022.02.19
+- [ ] Cycle GAN 업로드
+- [ ] Decision Rule 정리
+- [ ] AI 504 Study (22:00)
+- [ ] API를 활용한 금융 데이터 수집
 ---
 ### 2022.02 계획
 #### NLP
