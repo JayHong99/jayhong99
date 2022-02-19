@@ -11,7 +11,12 @@
 
 #### 🙄 Today's Record : 2022.02.19
 - [ ] Cycle GAN 업로드
-- [ ] Decision Rule 정리
+- [ ] XAI 스터디 준비
+  - [ ] Decision Rule 정리
+  - [ ] Rule FIt 읽기
+  - [ ] Other Interpretable Models 읽기
+  - [ ] Model-Agnostic Methods 읽기
+  - [ ] Example-Based Explanations 읽기
 - [ ] AI 504 Study (22:00)
 - [ ] API를 활용한 금융 데이터 수집
 ---
