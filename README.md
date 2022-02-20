@@ -9,15 +9,14 @@
 - NLP
 - eXplainable AI
 
-#### 🙄 Today's Record : 2022.02.19
-- [X] Cycle GAN 업로드
-- [ ] XAI 스터디 준비
-  - [X] Decision Rule 정리
-  - [ ] Rule FIt 읽기
-  - [ ] Other Interpretable Models 읽기
-  - [ ] Model-Agnostic Methods 읽기
-  - [ ] Example-Based Explanations 읽기
-- [X] AI 504 Study (22:00)
+#### 🙄 Today's Record : 2022.02.20
+- [ ] 주간 과외 준비
+  - [ ] Python 기초 (제어문, 함수, Class)
+  - [ ] Pandas 기초 (Groupby, Pivot Table etc...)
+  - [ ] API를 활용한 증권 데이터 분석
+- [ ] Image to Text
+  - [ ] MSCOCO 2014 Data 준비 (Image & Text Pair)
+  - [ ] Image Show and Tell
 ---
 ### 2022.02 계획
 #### NLP
@@ -35,13 +34,13 @@
 - [ ] AI 504 Study -> GAN Project 진행
   - [X] WEEK1 : Celeb-A GAN
   - [X] WEEK2 : Celeb-A DCGAN
-  - [ ] WEEK3 : Cycle GAN
+  - [X] WEEK3 : Cycle GAN
 
 #### XAI
 - [ ] XAI Study 진행 ("Interpretable Machine Learning")
   - [X] WEEK1 : LIME & SHAP
   - [X] WEEK2 : Interpretability on Simple Models (<b>Logreg</b>, Logistic, GAM, DT)
-  - [ ] WEEK3 : <b>Decision Rules</b>, Rule FIt, Other Interpretable Models, Model-Agnostic Methods, Example-Based Explanations
+  - [ ] WEEK3~4 : <b>Decision Rules</b>, Rule FIt, Other Interpretable Models, Model-Agnostic Methods, Example-Based Explanations
 - [ ] NLP x XAI 관련 연구 논문 정리
 
 #### Others
