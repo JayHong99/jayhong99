@@ -11,8 +11,8 @@
 
 #### 🙄 Today's Record : 2022.02.20
 - [ ] 주간 과외 준비
-  - [ ] Python 기초 (제어문, 함수, Class)
-  - [ ] Pandas 기초 (Groupby, Pivot Table etc...)
+  - [X] Python 기초 (제어문, 함수, Class)
+  - [X] Pandas 기초 (Groupby, Pivot Table etc...)
   - [ ] API를 활용한 증권 데이터 분석
 - [ ] Image to Text
   - [ ] MSCOCO 2014 Data 준비 (Image & Text Pair)
