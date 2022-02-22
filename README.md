@@ -9,14 +9,10 @@
 - NLP
 - eXplainable AI
 
-#### 🙄 Today's Record : 2022.02.20
-- [ ] 주간 과외 준비
-  - [X] Python 기초 (제어문, 함수, Class)
-  - [X] Pandas 기초 (Groupby, Pivot Table etc...)
-  - [ ] API를 활용한 증권 데이터 분석
-- [ ] Image to Text
-  - [ ] MSCOCO 2014 Data 준비 (Image & Text Pair)
-  - [ ] Image Show and Tell
+#### 🙄 Today's Record : 2022.02.21
+- [ ] API 증권 데이터 분석
+- [ ] Data Handling 과외 (21:00~23:00)
+- [ ] Img2Txt Study (23:00~)
 ---
 ### 2022.02 계획
 #### NLP
