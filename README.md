@@ -10,9 +10,6 @@
 - eXplainable AI
 
 #### 🙄 Today's Record : 2022.02.21
-- [ ] API 증권 데이터 분석
-- [ ] Data Handling 과외 (21:00~23:00)
-- [ ] Img2Txt Study (23:00~)
 ---
 ### 2022.02 계획
 #### NLP
@@ -20,14 +17,15 @@
   - [X] WEEK1 : IMG2TXT 이론
   - [X] WEEK2 : Transformer 이론
   - [X] WEEK3 : BERT 이론 + Use Pretrained Model
-  - [ ] WEEK4 : MS COCO Img 2 Txt
+  - [X] WEEK4 : MS COCO Img 2 Txt
+  - [ ] WEEK5 : Graphical Neural Network
 - [ ] CS224N 마무리
 - [ ] MS-COCO 한국어 Captioning Project
 - [ ] DACON "한국어 문장 관계 분류 경진대회"
 
 #### CV
 - [X] Fashin MNIST Data + Pytorch 다양한 프로젝트 진행
-- [ ] AI 504 Study -> GAN Project 진행
+- [X] AI 504 Study -> GAN Project 진행
   - [X] WEEK1 : Celeb-A GAN
   - [X] WEEK2 : Celeb-A DCGAN
   - [X] WEEK3 : Cycle GAN
