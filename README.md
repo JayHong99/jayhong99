@@ -18,15 +18,12 @@
 ---
 ### 2022.02 계획
 #### NLP
-- [ ] AI 504 Study 마무리
+- [X] AI 504 Study 마무리
   - [X] WEEK1 : IMG2TXT 이론
   - [X] WEEK2 : Transformer 이론
   - [X] WEEK3 : BERT 이론 + Use Pretrained Model
   - [X] WEEK4 : MS COCO Img 2 Txt
-  - [ ] WEEK5 : Graphical Neural Network
-- [ ] CS224N 마무리
-- [ ] MS-COCO 한국어 Captioning Project
-- [ ] DACON "한국어 문장 관계 분류 경진대회"
+  - [X] WEEK5 : Graphical Neural Network
 
 #### CV
 - [X] Fashin MNIST Data + Pytorch 다양한 프로젝트 진행
@@ -36,12 +33,10 @@
   - [X] WEEK3 : Cycle GAN
 
 #### XAI
-- [ ] XAI Study 진행 ("Interpretable Machine Learning")
+- [X] XAI Study 진행 ("Interpretable Machine Learning")
   - [X] WEEK1 : LIME & SHAP
   - [X] WEEK2 : Interpretability on Simple Models (<b>Logreg</b>, Logistic, GAM, DT)
   - [X] WEEK3~4 : <b>Decision Rules</b>, Rule FIt, Other Interpretable Models, Model-Agnostic Methods, Example-Based Explanations
-  - [ ] 
-- [ ] NLP x XAI 관련 연구 논문 정리
 
 #### Others
 - [ ] 과외
