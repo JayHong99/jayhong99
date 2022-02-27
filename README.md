@@ -26,8 +26,8 @@
   - [ ] https://www.youtube.com/watch?v=RZg0fXnMEM0&list=PLLENHvsRRLjAFG3pVw4TkifCrdk4Qd8Py
 
 #### 공모전
-- [ ] 제3회 연구개발특구 AI SPARK 챌린지 (http://aifactory.space/competition/detail/1976)
-- [ ] 강서구 빅데이터 활용 빅데이터 공모전 (https://www.gangseo.seoul.kr/gs040101/279497?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=)
+- [ ] 제3회 연구개발특구 AI SPARK 챌린지
+- [ ] 강서구 빅데이터 활용 빅데이터 공모전
 
 #### 자격증
 - [ ] 빅데이터분석기사 자격증 (매주 금요일 19:00 진행)
