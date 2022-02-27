@@ -6,11 +6,15 @@
 - [공부중](https://github.com/JayHong99) - 대학원 준비중... 
 
 ### ✈ Interest
-- NLP
 - eXplainable AI
+- NLP
+- Health Care
 
-#### 🙄 Today's Record : 2022.02.21
-- [ ] 스터디 준비
+#### 🙄 Today's Record : 2022.02.28
+- [ ] 10:00 ~ 12:00 오전 운동
+- [ ] 14:00 ~ 16:00 과외(Numpy + Pandas 기초)
+- [ ] 16:00 ~ 21:00 Graphical NN Study
+- [ ] 
 ---
 ### 2022.02 계획
 #### NLP
@@ -35,7 +39,8 @@
 - [ ] XAI Study 진행 ("Interpretable Machine Learning")
   - [X] WEEK1 : LIME & SHAP
   - [X] WEEK2 : Interpretability on Simple Models (<b>Logreg</b>, Logistic, GAM, DT)
-  - [ ] WEEK3~4 : <b>Decision Rules</b>, Rule FIt, Other Interpretable Models, Model-Agnostic Methods, Example-Based Explanations
+  - [X] WEEK3~4 : <b>Decision Rules</b>, Rule FIt, Other Interpretable Models, Model-Agnostic Methods, Example-Based Explanations
+  - [ ] 
 - [ ] NLP x XAI 관련 연구 논문 정리
 
 #### Others
