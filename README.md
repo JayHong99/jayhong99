@@ -16,27 +16,10 @@
 - [ ] 16:00 ~ 21:00 Graphical NN Study
 - [ ] 
 ---
-### 2022.02 계획
-#### NLP
-- [X] AI 504 Study 마무리
-  - [X] WEEK1 : IMG2TXT 이론
-  - [X] WEEK2 : Transformer 이론
-  - [X] WEEK3 : BERT 이론 + Use Pretrained Model
-  - [X] WEEK4 : MS COCO Img 2 Txt
-  - [X] WEEK5 : Graphical Neural Network
-
-#### CV
-- [X] Fashin MNIST Data + Pytorch 다양한 프로젝트 진행
-- [X] AI 504 Study -> GAN Project 진행
-  - [X] WEEK1 : Celeb-A GAN
-  - [X] WEEK2 : Celeb-A DCGAN
-  - [X] WEEK3 : Cycle GAN
-
+### 2022.03 계획
 #### XAI
-- [X] XAI Study 진행 ("Interpretable Machine Learning")
-  - [X] WEEK1 : LIME & SHAP
-  - [X] WEEK2 : Interpretability on Simple Models (<b>Logreg</b>, Logistic, GAM, DT)
-  - [X] WEEK3~4 : <b>Decision Rules</b>, Rule FIt, Other Interpretable Models, Model-Agnostic Methods, Example-Based Explanations
-
+- [ ] XAI Study 진행 ("Interpretable Machine Learning")
+  - [ ] WEEK1 : PDP, ALE, Feature Interaction, <b>Functional Decompositon</b>
+  
 #### Others
 - [ ] 과외
