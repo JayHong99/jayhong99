@@ -23,8 +23,7 @@
 - [ ] XAI Study (매주 일요일 10:00 진행, "Interpretable Machine Learning" 교재)
   - [ ] WEEK1 : PDP, ALE, Feature Interaction, <b>Functional Decompositon</b>
 
-- [ ] Machine Learning for Healthcare
-  - [ ] https://www.youtube.com/watch?v=RZg0fXnMEM0&list=PLLENHvsRRLjAFG3pVw4TkifCrdk4Qd8Py
+- [ ] Machine Learning for Healthcare (AI612)
 
 #### 공모전
 - [ ] 제3회 연구개발특구 AI SPARK 챌린지
