@@ -8,6 +8,7 @@
 ### ✈ Interest
 - eXplainable AI
 - Health Care
+- NLP
 
 #### 🙄 Today's Record : 2022.02.28
 - [X] 00:00 ~ 02:00 과외 준비
