@@ -7,7 +7,6 @@
 
 ### ✈ Interest
 - eXplainable AI
-- NLP
 - Health Care
 
 #### 🙄 Today's Record : 2022.02.28
@@ -18,15 +17,17 @@
 
 ---
 ### 2022.03 계획
+#### 3월중 목표
+- 대학원 관련 공부 및 정리
+- 스터디 2가지 진행 (XAI, 빅분기)
+- 자격증 1개 공부 (빅분기)
+- 공모전 2가지 진행
+- 과외 3개, 강의 1개 진행 (ML x 3, Stock Price)
+
 #### XAI
 - [ ] XAI Study (매주 일요일 10:00 진행, "Interpretable Machine Learning" 교재)
   - [ ] WEEK1 : PDP, ALE, Feature Interaction, <b>Functional Decompositon</b>
-
 - [ ] Machine Learning for Healthcare (AI612)
-
-#### 공모전
-- [ ] 제3회 연구개발특구 AI SPARK 챌린지
-- [ ] 강서구 빅데이터 활용 빅데이터 공모전
 
 #### 자격증
 - [ ] 빅데이터분석기사 자격증 (매주 금요일 19:00 진행)
