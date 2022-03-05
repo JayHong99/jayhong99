@@ -21,7 +21,7 @@
   - [X] PDP 간단 정리
   - [X] ALE 간단 정리
   - [X] Feature Interaction  정리
-  - [ ] <b>Functional Decompositon</b> 요약 정리
+  - [X] <b>Functional Decompositon</b> 요약 정리
   - [ ] XAI 스터디 (03.06 10:00 ~ 12:00)
 
 - [ ] 과외 준비
