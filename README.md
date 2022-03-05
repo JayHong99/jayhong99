@@ -18,10 +18,10 @@
   - [ ] 공모전2 스터디 (03.06 14:30 ~ 18:00)
 
 - [ ] XAI 스터디
-  - [ ] PDP 요점 정리
-  - [ ] ALE 요점 정리
-  - [ ] Feature Interaction 요점 정리
-  - [ ] <b>Functional Decompositon</b> ppt 만들기
+  - [X] PDP 간단 정리
+  - [X] ALE 간단 정리
+  - [X] Feature Interaction  정리
+  - [ ] <b>Functional Decompositon</b> 요약 정리
   - [ ] XAI 스터디 (03.06 10:00 ~ 12:00)
 
 - [ ] 과외 준비
