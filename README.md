@@ -43,7 +43,7 @@
 
 #### XAI
 - [ ] XAI Study (매주 일요일 10:00 진행, "Interpretable Machine Learning" 교재)
-  - [ ] WEEK1 : PDP, ALE, Feature Interaction, <b>Functional Decompositon</b>
+  - [ ] WEEK01~02 : PDP, ALE, Feature Interaction, <b>Functional Decompositon</b>
 - [ ] Machine Learning for Healthcare (AI612)
 
 #### 자격증
