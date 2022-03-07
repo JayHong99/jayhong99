@@ -10,8 +10,13 @@
 - Health Care
 - NLP
 
-#### 🙄 Today's Record (2022.03.04 ~ 03.06) : 
+#### 🙄 Today's Record (2022.03.07) : 
 - [ ] DACON 강의 준비
+  - [X] Data Handling
+  - [ ] Data Visualization + Data Preprocessing
+  - [ ] Machine Learning 개념 + 간단한 모델 구현
+  - [ ] 다양한 머신러닝 모델 구현 + Ensemble
+
 - [ ] 공모전 논문 리딩
 - [ ] 대학원 논문 리딩
 
