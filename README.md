@@ -11,8 +11,8 @@
 - NLP
 
 #### 🙄 Today's Record (2022.03.08) : 
-- [ ] 14:00 과외 (Pandas 데이터 분석)
 - [ ] 19:00 Reinforcement Learning 스터디 1회차
+- [ ] DACON 강의 최종 검수
 
 ---
 ### 2022.03 계획
