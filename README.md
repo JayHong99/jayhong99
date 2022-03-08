@@ -10,23 +10,17 @@
 - Health Care
 - NLP
 
-#### 🙄 Today's Record (2022.03.07) : 
-- [ ] DACON 강의 준비
-  - [X] Data Handling
-  - [ ] Data Visualization + Data Preprocessing
-  - [ ] Machine Learning 개념 + 간단한 모델 구현
-  - [ ] 다양한 머신러닝 모델 구현 + Ensemble
-
-- [ ] 공모전 논문 리딩
-- [ ] 대학원 논문 리딩
+#### 🙄 Today's Record (2022.03.08) : 
+- [ ] 14:00 과외 (Pandas 데이터 분석)
+- [ ] 19:00 Reinforcement Learning 스터디 1회차
 
 ---
 ### 2022.03 계획
 #### 3월중 목표
 - 대학원 관련 공부 및 정리
-- 스터디 2가지 진행 (XAI, 빅분기)
+- 스터디 3가지 진행 (XAI, RL, 빅분기)
 - 자격증 1개 공부 (빅분기)
-- 공모전 2가지 진행
+- 공모전 1가지 진행
 - 과외 3개, 강의 1개 진행 (ML x 3, Stock Price)
 
 #### XAI
