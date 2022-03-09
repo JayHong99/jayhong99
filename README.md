@@ -10,9 +10,10 @@
 - Health Care
 - NLP
 
-#### 🙄 Today's Record (2022.03.08) : 
-- [ ] 19:00 Reinforcement Learning 스터디 1회차
-- [ ] DACON 강의 최종 검수
+#### 🙄 Today's Record (2022.03.09, 자가격리 3일차) : 
+- [ ] 과외자료 준비
+- [ ] 빅분기 Chapter01 정리
+- [ ] Reinforcement Learning CS285
 
 ---
 ### 2022.03 계획
@@ -21,7 +22,7 @@
 - 스터디 3가지 진행 (XAI, RL, 빅분기)
 - 자격증 1개 공부 (빅분기)
 - 공모전 1가지 진행
-- 과외 3개, 강의 1개 진행 (ML x 3, Stock Price)
+- 과외 3개, 강의 1개 진행 (ML x 3, Stock Price, Dacon School 3rd)
 
 #### XAI
 - [ ] XAI Study (매주 일요일 10:00 진행, "Interpretable Machine Learning" 교재)
@@ -34,6 +35,13 @@
   - [ ] WEEK02 : 빅데이터 탐색 (데이터 전처리, 데이터 탐색, 통계기법 이해)
   - [ ] WEEK03 : 빅데이터 모델링 (분석모형 설계, 분석기법 적용)
   - [ ] WEEK04 : 빅데이터 결과해석 (분석모형 평가 및 개선, 분석결과 해석 및 활용)
+
+#### RL
+- [ ] 가짜연구소 <4기 : 강화학습-첫걸음> (매주 토요일 20:00 진행)
+  - [X] WEEK01 : OT
+  - [ ] WEEK02 : Lecture 01, Lecture 02
+  - [ ] WEEK03 : Lecture 04, Lecture 05
+  - [ ] WEEK04 : Lecture 06, Lecture 07
   
 #### Others
 - [ ] 과외
