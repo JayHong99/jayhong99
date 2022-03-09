@@ -11,7 +11,7 @@
 - NLP
 
 #### 🙄 Today's Record (2022.03.09, 자가격리 3일차) : 
-- [ ] 과외자료 준비
+- [X] 과외자료 준비
 - [ ] 빅분기 Chapter01 정리
 - [ ] Reinforcement Learning CS285
 
