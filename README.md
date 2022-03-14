@@ -10,14 +10,7 @@
 - Health Care
 - NLP
 
-#### 🙄 Today's Record (2022.03.13 자가격리 7일차) : 
-- [ ] 10:00 XAI 스터디
-- [ ] 14:00 공모전 스터디
-- [ ] 면담 예상 Q&A 작성
-- [ ] 논문 3편 읽고 정리
-  - [ ] Interpretable Conditional Recurrent Neural Network for Weight Change Prediction: Algorithm Development and Validation Study
-  - [ ] Using deep learning with attention mechanism for identification of novel temporal data patterns for prediction of ICU mortality
-  - [ ] Reinforcement Learning in Healthcare: A Survey
+#### 🙄 Today's Record
 
 ---
 ### 2022.03 계획
