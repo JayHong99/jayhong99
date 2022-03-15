@@ -13,7 +13,7 @@
 ### ✈ Interest
 - eXplainable AI
 - Health Care
-- NLP
+- Reinforcement Learning
 
 #### 🙄 Today's Record
 
