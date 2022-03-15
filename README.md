@@ -15,7 +15,7 @@
 
 ### ✈ Interest
 - Reinforcement Learning
-- eXplainable AI (XRL)
+- eXplainable AI
 - Health Care
 
 
