@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=300&section=header&text=Jay%20Hong&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=200&section=header&text=Jay%20Hong&fontSize=90&animation=fadeIn)
 
 ### 🛠 Tech Stack 🛠
 
@@ -20,6 +20,9 @@
 
 
 #### 🙄 Today's Record
+
+---
+![JayHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayHong99&show_icons=true&theme=radical)
 
 ---
 ### 2022.03 계획
