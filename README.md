@@ -21,15 +21,9 @@
 
 #### 🙄 Today's Record
 
-<script src="https://gist.github.com/JayHong99/c94f63bf889a672890375b8ef571a612.js"></script>
-
 #### Stats
  <p align="center">
-  <a href="https://github.com/JayHong99" align='left'>
-    <script src="https://gist.github.com/JayHong99/c94f63bf889a672890375b8ef571a612.js"></script>
-  </a>
-  <a align='right'>
-    <img src='https://github-readme-stats.vercel.app/api?username=JayHong99&show_icons=true&theme=radical' height='200' width='450'>
+   <img src='https://github-readme-stats.vercel.app/api?username=JayHong99&show_icons=true&theme=radical' height='200' width='450'>
 </p>
 
 ---
