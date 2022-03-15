@@ -21,7 +21,7 @@
 
 #### 🙄 Today's Record
 
-https://gist.github.com/JayHong99/c94f63bf889a672890375b8ef571a612.js
+<script src="https://gist.github.com/JayHong99/c94f63bf889a672890375b8ef571a612.js"></script>
 
 #### Stats
  <p align="center">
