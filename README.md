@@ -42,10 +42,9 @@
 
 #### RL
 - [ ] 가짜연구소 <4기 : 강화학습-첫걸음> (매주 토요일 20:00 진행)
-  - [X] WEEK01 : OT
-  - [ ] WEEK02 : Lecture 01, Lecture 02
-  - [ ] WEEK03 : Lecture 04, Lecture 05
-  - [ ] WEEK04 : Lecture 06, Lecture 07
+  - [X] WEEK02 : OT
+  - [ ] WEEK03 : Lecture 01, Lecture 02
+  - [ ] WEEK04 : Lecture 04, Lecture 05
   
 #### Others
 - [ ] 과외
