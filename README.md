@@ -28,27 +28,4 @@
 </p>
 
 ---
-### 2022.03 계획
-#### 3월중 목표
-- 대학원 관련 공부 및 정리
-- 스터디 2가지 진행 (XAI, RL)
-- 공모전 1가지 진행
-- 과외 3개, 강의 1개 진행 (ML x 2, Stock Price, Dacon School 3rd)
-
-#### XAI
-- [ ] XAI Study (매주 일요일 10:00 진행, "Interpretable Machine Learning" 교재)
-  - [X] WEEK01~02 : PDP, ALE, Feature Interaction, <b>Functional Decompositon</b>
-  - [ ] WEEK03 : <b>Permutation Feature Importance</b>, Global Surrogate, Prototypes and Criticisms, ICE, LIME
-- [ ] Machine Learning for Healthcare (AI612)
-
-#### RL
-- [ ] 가짜연구소 <4기 : 강화학습-첫걸음> (매주 토요일 20:00 진행)
-  - [X] WEEK02 : OT
-  - [ ] WEEK03 : Lecture 01, Lecture 02
-  - [ ] WEEK04 : Lecture 04, Lecture 05
-  
-#### Others
-- [ ] 과외
-
----
 2012.겨울 ~ 2022.03.12 우주야 사랑해 ❤️ 그동안 고마웠어
