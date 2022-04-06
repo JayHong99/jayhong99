@@ -16,7 +16,8 @@
 
 ### ✈ Interest
 - Reinforcement Learning
-- eXplainable AI
+- Interpretability
+- Vertical Federate Learning
 - Health Care
 
 
