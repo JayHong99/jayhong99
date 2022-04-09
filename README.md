@@ -24,7 +24,8 @@
 #### 🙄 Goal (2022.04.09 ~ 2022.04.12)
 - [ ] DB Data Uploading
 - [ ] VGG19, ResNet, Efficient Net Implement
-- [ ] 
+- [ ] Retina Paper Reading x 3
+- [ ] Build Github Blog
 
 #### Stats
  <p align="center">
