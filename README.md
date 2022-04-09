@@ -21,7 +21,10 @@
 - Health Care
 
 
-#### 🙄 Today's Record
+#### 🙄 Goal (2022.04.09 ~ 2022.04.12)
+- [ ] DB Data Uploading
+- [ ] VGG19, ResNet, Efficient Net Implement
+- [ ] 
 
 #### Stats
  <p align="center">
