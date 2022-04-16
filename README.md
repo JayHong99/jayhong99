@@ -20,13 +20,6 @@
 - Vertical Federate Learning
 - Health Care
 
-
-#### 🙄 Goal (2022.04.09 ~ 2022.04.12)
-- [ ] DB Data Uploading
-- [ ] VGG19, ResNet, Efficient Net Implement
-- [ ] Retina Paper Reading x 3
-- [ ] Build Github Blog
-
 #### Stats
  <p align="center">
    <img src='https://github-readme-stats.vercel.app/api?username=JayHong99&show_icons=true&theme=radical' height='200' width='450'>
