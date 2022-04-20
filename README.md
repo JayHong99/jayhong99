@@ -17,7 +17,6 @@
 ### ✈ Interest
 - Reinforcement Learning
 - Interpretability
-- Vertical Federate Learning
 - Health Care
 
 #### Stats
