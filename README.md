@@ -22,9 +22,10 @@
 - [공부중](https://github.com/JayHong99) - Reinforcement Learning
 
 ### ✈ Interest
+- Medical Health Care
+- Explainability
 - Reinforcement Learning
-- Interpretability
-- Health Care
+
 
 #### Stats
  <p align="center">
