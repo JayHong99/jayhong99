@@ -22,7 +22,7 @@
 - [공부중](https://github.com/JayHong99) - Reinforcement Learning
 
 ### ✈ Interest
-- Medical Health Care
+- BioInformatics
 - Explainability
 - Reinforcement Learning
 
