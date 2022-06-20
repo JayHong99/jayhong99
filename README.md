@@ -18,7 +18,8 @@
 ### 🧐 Who Am I?
 - [국민대학교](https://www.kookmin.ac.kr) - Majored in "[Bigdata Analysis Business Statistics](https://biz.kookmin.ac.kr/undergraduate/business/big?tab=1)" and Minored in "[Media Analytics](https://hat.kookmin.ac.kr/link/analytics)" (2018.03 ~ 2022.02)
 - [DACON](https://www.dacon.io) - Data Scientist (2021.07 ~ 2021.09)
-- [Lab Intern](https://www.dhlab.org/) - Lab Intern (2022.04 ~ present)
+- [Lab Intern](https://www.dhlab.org/) - Lab Intern (2022.04 ~ 2022.07)
+- [MS/Ph.D Combined Student](https://medicine.yonsei.ac.kr/medicine/education/graduate/systems-informatics.do) - Student (2022.08 ~ )
 - [공부중](https://github.com/JayHong99) - Reinforcement Learning
 
 ### ✈ Interest
