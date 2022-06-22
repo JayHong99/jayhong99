@@ -20,7 +20,6 @@
 - [DACON](https://www.dacon.io) - Data Scientist (2021.07 ~ 2021.09)
 - [Lab Intern](https://www.dhlab.org/) - Lab Intern (2022.04 ~ 2022.07)
 - [MS/Ph.D Combined Student](https://medicine.yonsei.ac.kr/medicine/education/graduate/systems-informatics.do) - Student (2022.08 ~ )
-- [공부중](https://github.com/JayHong99) - Reinforcement Learning
 
 ### ✈ Interest
 - BioInformatics
