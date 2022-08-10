@@ -30,6 +30,9 @@ ThxU for visiting my github
 - [DACON](https://www.dacon.io) - Data Scientist (2021.07 ~ 2021.09)
 - [국민대학교](https://www.kookmin.ac.kr) - Majored in "[Bigdata Analysis Business Statistics](https://biz.kookmin.ac.kr/undergraduate/business/big?tab=1)" and Minored in "[Media Analytics](https://hat.kookmin.ac.kr/link/analytics)" (2018.03 ~ 2022.02)
 
+
+<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white" width='200px' ></a>
+
 ### ✈ Interest
 - BioInformatics
 - Explainability
