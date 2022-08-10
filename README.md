@@ -13,7 +13,8 @@ ThxU for visiting my github
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Skicit_Learn-F7931E?style=flat-square&logo=Skicit-Learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Skicit_Learn-F7931E?style=flat-square&logo=Skicit-Learn&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Apple-MACBOOK-000000?style=flat-square&logo=Apple&logoColor=white" width='200px' ></a>
 
 #### 💻 To do
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
@@ -31,7 +32,6 @@ ThxU for visiting my github
 - [국민대학교](https://www.kookmin.ac.kr) - Majored in "[Bigdata Analysis Business Statistics](https://biz.kookmin.ac.kr/undergraduate/business/big?tab=1)" and Minored in "[Media Analytics](https://hat.kookmin.ac.kr/link/analytics)" (2018.03 ~ 2022.02)
 
 
-<img src="https://img.shields.io/badge/Apple-MACBOOK-000000?style=flat-square&logo=Apple&logoColor=white" width='200px' ></a>
 
 ### ✈ Interest
 - BioInformatics
