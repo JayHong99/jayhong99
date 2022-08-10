@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
+#### 📱 Contact
+✉️ : hong.jayseong@gmail.com
+
 
 ### 🧐 Who Am I?
 - [연세대학교 대학원](https://graduate.yonsei.ac.kr/) - [MS/Ph.D Combined Student](https://medicine.yonsei.ac.kr/medicine/education/graduate/systems-informatics.do) (2022.08 ~ )
