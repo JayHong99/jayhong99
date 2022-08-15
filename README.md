@@ -14,7 +14,6 @@ ThxU for visiting my github
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Skicit_Learn-F7931E?style=flat-square&logo=Skicit-Learn&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Apple-MACBOOK-000000?style=flat-square&logo=Apple&logoColor=white" width='200px' ></a>
 
 #### 💻 To do
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
@@ -43,6 +42,7 @@ ThxU for visiting my github
  <p align="center">
    <img src='https://github-readme-stats.vercel.app/api?username=JayHong99&show_icons=true&theme=radical' height='200' width='450'>
 </p>
+<img src="https://img.shields.io/badge/Apple-MACBOOK-000000?style=flat-square&logo=Apple&logoColor=white" width='200px' ></a>
 
 ---
 2012.겨울 ~ 2022.03.12 우주야 사랑해 ❤️ 그동안 고마웠어
