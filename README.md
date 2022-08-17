@@ -25,7 +25,7 @@ ThxU for visiting my github
 
 
 ### 🧐 Who Am I?
-- [연세대학교 대학원](https://graduate.yonsei.ac.kr/) - [MS/Ph.D Combined Student](https://medicine.yonsei.ac.kr/medicine/education/graduate/systems-informatics.do) (2022.08 ~ )
+- [연세대학교 대학원](https://graduate.yonsei.ac.kr/) - [MS/Ph.D Combined Student](https://medicine.yonsei.ac.kr/medicine/education/graduate/systems-informatics.do) (2022.09 ~ )
 - [DHLab](https://www.dhlab.org/) - AI Researcher (2022.04 ~ )
 - [DACON](https://www.dacon.io) - Data Scientist (2021.07 ~ 2021.09)
 - [국민대학교](https://www.kookmin.ac.kr) - Majored in "[Bigdata Analysis Business Statistics](https://biz.kookmin.ac.kr/undergraduate/business/big?tab=1)" and Minored in "[Media Analytics](https://hat.kookmin.ac.kr/link/analytics)" (2018.03 ~ 2022.02)
