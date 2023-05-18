@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=200&section=header&text=Jay%20Hong&fontSize=90&animation=fadeIn)
 
-## 🤚 Hi there~ I'm Jae Seong Hong
+## 🤚 Hi there~ I'm JaeSeong Hong
 ThxU for visiting my github
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJayHong99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
