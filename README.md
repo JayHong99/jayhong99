@@ -34,8 +34,8 @@ ThxU for visiting my github
 
 ### ✈ Interest
 - BioInformatics
-- Explainability
-- Reinforcement Learning
+- Representation Learning via contrastive learning
+- Multi-modal
 
 
 #### Stats
